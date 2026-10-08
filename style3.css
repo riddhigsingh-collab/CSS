@@ -1,0 +1,12 @@
+html {
+    font-size:16px;
+}
+.parent{
+    font-size:20px;
+}
+.em-text{
+    font-size:2em;
+}
+.rem-text{
+    font-size:2rem;
+}
