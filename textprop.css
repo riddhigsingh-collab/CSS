@@ -1,16 +1,16 @@
-div{
+/* div{
     width: 500px;
     padding:10px;
     border:2px solid red;
 }
 .style-heading{
     /* text-decoration:line-through; */
-    text-decoration:underline wavy black;
+    /* text-decoration:underline wavy black; */
     /* text-align:justify; */
-    text-align:center;
+    /* text-align:center;
     vertical-align: bottom;
     text-transform:capitalize;
-}
+} */
 p {
     font-size: 16px;
     line-height: 2;
@@ -19,3 +19,4 @@ p {
     width: 40px;
     vertical-align: middle;
 }
+
